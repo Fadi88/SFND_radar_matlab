@@ -15,4 +15,4 @@ vr = fd * lambda /2;
 % TODO: Display results
 
 disp(vr)
-disp( (vr * 5 ) +200)
+disp( (vr * 5 ) +200) % d = v0t + d0
